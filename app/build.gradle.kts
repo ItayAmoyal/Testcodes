@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "sc.example.testcodes"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "sc.example.testcodes"
